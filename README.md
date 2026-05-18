@@ -17,7 +17,13 @@ el futuro usando las últimas 24 horas de mediciones.
 **Horizonte:** 1 hora hacia el futuro  
 
 ---
+## Abrir en Google Colab
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Deivs117/ProyectoSeriesTiempo/blob/main/KATALYNA_DAVID_TF_serie_tiempo.ipynb)
+
+<img width="177" height="47" alt="image" src="https://github.com/user-attachments/assets/574354f5-7ab9-4725-91a9-929bbcae1865" />
+
+---
 ## Dataset
 
 **Individual Household Electric Power Consumption — UCI ML Repository**
