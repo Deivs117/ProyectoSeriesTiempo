@@ -4,6 +4,11 @@ Proyecto académico de series de tiempo multivariadas usando PyTorch.
 Comparación de cuatro arquitecturas de Deep Learning para predecir
 el consumo eléctrico horario de un hogar.
 
+## Autores
+
+**Ktalyna Garcia Benavides & David Caicedo Samboni**  
+Proyecto final — Series de Tiempo con Deep Learning
+
 ---
 
 ## Problema
@@ -144,8 +149,3 @@ El dataset se descarga automáticamente desde UCI en la celda de carga.
 | Despliegue Cloud | Dashboard remoto, reentrenamiento automático, latencia aceptable |
 
 ---
-
-## Autores
-
-**Katalyna & David**  
-Proyecto final — Series de Tiempo con Deep Learning
